@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaishnavi Patel
 - 👀 I’m interested in Working on open source organisations
 - 🌱 I’m currently learning web devlopement
-- 💞️ I’m looking to collaborate open source projects
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 Contact - https://www.linkedin.com/in/iamvsnv/
 
 <!---
